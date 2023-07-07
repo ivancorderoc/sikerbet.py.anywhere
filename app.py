@@ -17,7 +17,7 @@ def git_update():
 
 @app.route('/',methods=['GET'])
 def home_page():
-    message="Hola mundo"
+    message="Automatizando el mundo"
     response={"message":message}
     return jsonify({"response":response}), 200
 
