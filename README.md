@@ -1,7 +1,7 @@
 <h1 align="center"><strong>SIKER-BET® - Proyecto Machine Learning</strong></h1>
 
 <div id="header" align="center">
-  <img src="Siker-bet/static/images/cover.png" width="" alt="Siker-bet Logo"/>
+  <img src="/static/images/cover.png" width="" alt="Siker-bet Logo"/>
 </div>
 
 
