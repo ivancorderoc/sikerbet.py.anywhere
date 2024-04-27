@@ -6,7 +6,7 @@
 
 
 <h1 align="center">
-  <a href="https://sikerbet.fly.dev">SIKER-BET®</a>
+  <a href="https://sikerbet.pythonanywhere.com">SIKER-BET®</a>
 <p align="center">👆🏼👆🏼👆🏼</p>
 </h1>
 
