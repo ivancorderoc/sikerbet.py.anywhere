@@ -5,7 +5,7 @@ import pickle
 import subprocess
 
 app = Flask(__name__)
-root_path = "/home/sikerbet/sikerbet/model/"
+root_path = "/home/sikerbet/sikerbet.py.anywhere/model/"
 
 # Funcion para cargar el modelo y el encoder desde los archivos pickle
 def load_model_and_encoder():
