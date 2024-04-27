@@ -62,8 +62,8 @@ def error():
 @app.route('/webhook', methods=['POST'])
 def webhook():
     # Ruta al repositorio donde se realizará el pull
-    path_repo = '/ruta/a/tu/repositorio/en/PythonAnywhere'
-    servidor_web = '/ruta/al/fichero/WSGI/de/configuracion' 
+    path_repo = '/home/sikerbet/sikerbet.py.anywhere'
+    servidor_web = '/var/www/sikerbet_pythonanywhere_com_wsgi.py' 
 
     # Comprueba si la solicitud POST contiene datos JSON
     if request.is_json:
